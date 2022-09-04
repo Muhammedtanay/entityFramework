@@ -1,1 +1,8 @@
-USİNG DAPPER ORM
+USİNG DAPPER ORM;
+
+
+Private void sqlcommand()
+{
+
+
+}
